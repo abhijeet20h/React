@@ -1,8 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import Message from "./Cpmponents/Message"
-import PropsEx from "./Cpmponents/PropsEx"
-import SetStateEx from "./Cpmponents/SetStateEx"
+// import Message from "./Components/Message"
+// import PropsEx from "./Components/PropsEx"
+// import SetStateEx from "./Components/SetStateEx"
+// import NameList from "./Components/NameList"
+import Covid from './Components/Covid'
 
 
 function App() {
@@ -10,7 +11,8 @@ function App() {
     <div className="App">
     {/* <Message/> */}
     {/* <PropsEx  name="ABHIJEET" surname="HORE"/> */}
-    <SetStateEx/>
+    {/* <SetStateEx/> */}
+    <Covid/>
     </div>
   );
 }
