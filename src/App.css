@@ -99,3 +99,11 @@ button {
   background-color: #fff;
   cursor: pointer;
 }
+
+
+/* Ex1=================> */
+.ex1{
+  width: 300px;
+  height: 200px;
+ margin:  100px auto;
+}
