@@ -3,7 +3,8 @@ import './App.css';
 // import PropsEx from "./Components/PropsEx"
 // import SetStateEx from "./Components/SetStateEx"
 // import NameList from "./Components/NameList"
-import Ex1 from './Components/Ex1'
+// import Ex1 from './Components/Ex1'
+import Input from './Components/Input'
 
 
 function App() {
@@ -13,7 +14,8 @@ function App() {
     {/* <PropsEx  name="ABHIJEET" surname="HORE"/> */}
     {/* <SetStateEx/> */}
     {/* <Covid/> */}
-    <Ex1/>
+    {/* <Ex1/> */}
+    <Input/>
     </div>
   );
 }
