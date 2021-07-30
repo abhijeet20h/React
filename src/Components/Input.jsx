@@ -16,7 +16,7 @@ export default function Input() {
         <>
         <div className="card " style={{width : '300px' , margin : '100px  auto'}}>
         <h1 className="p-4">Hello , {FullName} </h1>
-        <input type="text" onChange={inputValue} placeholder="Enter your Namev " className="p-2" />
+        <input type="text" onChange={inputValue} placeholder="Enter your Name " className="p-2" />
         <button onClick={onSubmiteData} className="btn btn-success m-3"> Click Me 🔥</button>
             
         </div>
